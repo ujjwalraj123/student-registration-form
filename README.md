@@ -7,8 +7,6 @@
 
 A modern student registration form with validation built using React and Formik. Features minimalist design and responsive layout.
 
-![Form Preview](https://comfy-horse-c69139.netlify.app/)<!-- Replace with actual screenshot -->
-
 ## Features
 ✅ Real-time form validation  
 📱 Mobile-responsive design  
